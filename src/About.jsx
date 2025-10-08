@@ -51,7 +51,7 @@ const About = () => {
 
           <div className="flex flex-col sm:flex-row justify-center md:justify-start mt-8 gap-4">
             <a
-              href="public/Images/Mugilan_C_Resume_2025.pdf"
+              href="/Images/Mugilan_C_Resume_2025.pdf"
               download
               className="px-8 py-3 bg-gradient-to-r from-cyan-500 to-purple-500 hover:from-purple-500 hover:to-cyan-500 text-white font-semibold rounded-2xl shadow-lg shadow-cyan-400/40 transition-all text-lg transform hover:scale-105"
             >
