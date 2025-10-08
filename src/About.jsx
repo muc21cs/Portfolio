@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
 
-const profileImage = "public/Images/Profile pic.jpg"; // Replace with your image
+const profileImage = "/Images/Profile pic.jpg"; // Replace with your image
 const email = "mugilanc1@gmail.com"; // Replace with your email
 
 const About = () => {
