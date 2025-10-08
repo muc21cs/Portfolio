@@ -16,7 +16,7 @@ const projects = [
     description:
       "The system allows customers to reserve bikes online and manage the rental process. Key features include availability checking, rental fees calculation, reservations, and processing pick-up and return.",
     tech: ["HTML", "CSS", "JavaScript", "Next JS", "Django"],
-    image: "public/Images/Bike rental.png",
+    image: "/Images/Bike rental.png",
     link: "https://github.com/muc21cs/Bike-Rental-System",
     gradient: "from-green-400 via-teal-500 to-blue-500",
   },
