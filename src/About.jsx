@@ -55,7 +55,7 @@ const About = () => {
               download
               className="px-8 py-3 bg-gradient-to-r from-cyan-500 to-purple-500 hover:from-purple-500 hover:to-cyan-500 text-white font-semibold rounded-2xl shadow-lg shadow-cyan-400/40 transition-all text-lg transform hover:scale-105"
             >
-              Download CV
+              Download Resume
             </a>
 
             {/* Contact Me Button */}
